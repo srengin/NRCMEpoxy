@@ -1,24 +1,32 @@
 carousel = document.getElementById("carousel1");
-carousel.innerHTML = `<div id="carouselExample" class="carousel slide">
+carousel.innerHTML = `<div id="myCarousel" class="carousel slide">
+<div class="carousel-indicators">
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
 <div class="carousel-inner">
   <div class="carousel-item active"  style="background-image: url('images/EpoxyGarage.jpeg'); background-size: 100% auto; background-position-y: 40%; background-repeat:no-repeat; background-color: #EFECEC;">
-    <img src="..." class="d-block w-100" alt="...">
-    NRCM Epoxy: Veteran and Family Owned
+  <div class="carousel-caption d-none d-md-block">
+  <h2 style="color:black; font-weight:bold; text-shadow: 2px 2px gray; font-family: Copperplate, Papyrus, fantasy; background-color: rgba(104, 99, 71, .1);">NRCM Epoxy: Making Concrete Extraordinary. It's just what we do.</h5>
+</div>
   </div>
   <div class="carousel-item" style="background-image: url('images/epoxyroll.jpeg'); background-size: 100% auto; background-position-y: 40%; background-repeat:no-repeat; background-color: #EFECEC;">
     <img src="..." class="d-block w-100" alt="...">
-    What is Epoxy Flooring?
+    <div class="carousel-caption d-none d-md-block">
+    <h2 style="color:black; font-weight:bold; text-shadow: 2px 2px gray; font-family: Copperplate, Papyrus, fantasy; background-color: rgba(104, 99, 71, .1);">Did you know?</h5>
+  <h2 style="color:black; font-weight:bold; text-shadow: 2px 2px gray; font-family: Copperplate, Papyrus, fantasy; background-color: rgba(104, 99, 71, .1);">We use Polyaspartic</h5>
   </div>
   <div class="carousel-item" style="background-image: url('images/garage.jpeg'); background-size: 100% auto; background-position-y: 40%; background-repeat:no-repeat; background-color: #EFECEC;">
     <img src="..." class="d-block w-100" alt="...">
     Why should you buy from us?
   </div>
 </div>
-<button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+<button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
   <span class="carousel-control-prev-icon" aria-hidden="true"></span>
   <span class="visually-hidden">Previous</span>
 </button>
-<button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+<button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
   <span class="carousel-control-next-icon" aria-hidden="true"></span>
   <span class="visually-hidden">Next</span>
 </button>
