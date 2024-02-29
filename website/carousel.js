@@ -13,7 +13,7 @@ carousel.innerHTML = `<div id="myCarousel" class="carousel slide" data-bs-ride="
       <div class="carousel-caption text-start">
         <h1>NRCM Epoxy: Making Concrete Extraordinary. </h1>
         <p>It's just what we do.</p>
-        <p><a class="btn btn-lg btn-primary" href="#" onclick="openPopup()">Free Consultation</a></p>
+        <p><a class="btn btn-lg btn-primary" href="mailto:nrcmepoxy@gmail.com" >Free Consultation</a></p>
       </div>
     </div>
   </div>
@@ -24,7 +24,7 @@ carousel.innerHTML = `<div id="myCarousel" class="carousel slide" data-bs-ride="
       <div class="carousel-caption">
         <h1>Did you know?</h1>
         <p>We use a Polyaspartic Coating which cures faster, is more versatile and durable in our Hot Florida Summers.</p>
-        <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
+        <p><a class="btn btn-lg btn-primary" href=""mailto:nrcmepoxy@gmail.com"">Learn more</a></p>
       </div>
     </div>
   </div>
@@ -35,7 +35,7 @@ carousel.innerHTML = `<div id="myCarousel" class="carousel slide" data-bs-ride="
       <div class="carousel-caption text-end">
         <h1>Why Us?</h1>
         <p>We don't cut corners and we never use acid etching to prep the Concrete. Longevity and quality is all about the surface prep and we use diamond segments to grind the concrete surface profile.</p>
-        <p><a class="btn btn-lg btn-primary" href="#">Get an Estimate</a></p>
+        <p><a class="btn btn-lg btn-primary" href="mailto:nrcmepoxy@gmail.com">Get an Estimate</a></p>
       </div>
     </div>
   </div>
