@@ -11,7 +11,11 @@ body {
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
-
+.carousel-item{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+}
 /* Carousel base class */
 .carousel {
   margin-bottom: 4rem;
@@ -20,6 +24,9 @@ body {
 .carousel-caption {
   bottom: 3rem;
   z-index: 10;
+  color: white;
+  font-weight:bold;  
+  
 }
 
 /* Declare heights because of positioning of img element */
