@@ -2,16 +2,28 @@ let featurettes = document.getElementById("featurettes");
 featurettes.innerHTML =`<!--<hr class="featurette-divider">-->
     <div class="row featurette" >
       <div class="col-md-7">
-        <h2 class="featurette-heading fw-normal lh-1">Here at NRCM Epoxy we are transforming your concrete with <span class="text-body-secondary">surface designs for your lifestyle</span></h2>
-        <p class="lead">It's not just about looks though. Epoxy floors are premium flooring because they durable and resistant to:
-              <ol class="lead">
-                <li>scratches</li>
-                <li>stains</li>
-                <li>chemicals</li>
-                <li>oils</li>
-              </ol>
+        <h2 class="featurette-heading fw-normal lh-1">Here at NRCM Epoxy we are creating<span class="text-body-secondary">surface designs for your lifestyle</span></h2>
+        <p class="lead">But it doesn't just look pretty! Polyaspartic flooring offers several advantages over traditional flooring options, making it an increasingly popular choice in residential, commercial, and industrial settings. Here are some of its key benefits:
+          <ol class="lead" style="font-size:15px">
+          <li>Durability: Polyaspartic coatings are extremely durable and resistant to wear and tear. They can withstand heavy foot traffic, impact from dropped objects, and the weight of vehicles without chipping, cracking, or peeling. </li>
+        
+          <li>Rapid Curing Time: They have a quick curing time and can often be installed in 1 day. </li>
+        
+          <li>Chemical Resistance: Polyaspartic coatings are highly resistant to chemicals, including oils, grease, acids, and solvents. This makes them ideal for use in garages, warehouses, manufacturing facilities, and other environments where spills are common. </li>
+        
+          <li>UV Stability: Polyaspartic flooring is UV stable, meaning it will not yellow or degrade when exposed to sunlight. This makes it suitable for both indoor and outdoor applications, such as patios, pool decks, and retail spaces with large windows. </li>
+        
+          <li>Abrasion Resistance: The strong molecular structure of polyaspartic coatings provides excellent abrasion resistance, ensuring that the floor maintains its appearance and performance even in high-traffic areas. </li>
+        
+          <li>Easy Maintenance: Polyaspartic flooring is easy to clean and maintain. Its seamless surface prevents dirt, dust, and liquids from penetrating the floor, making it simple to sweep, mop, or pressure wash as needed. </li>
+        
+          <li>Customization Options: Polyaspartic coatings can be customized to achieve a wide range of finishes, including solid colors, metallic effects, and decorative flakes. This allows for creativity in design while still maintaining the durability and functionality of the floor. </li>
+        
+          <li>Longevity: With proper installation and maintenance, polyaspartic flooring can last for many years, providing a long-term flooring solution that offers excellent value for money. </li>
+        </ol>
+        
         </p>
-        <p class="lead">This makes them the perfect solution to high trafic areas.</p>
+        <p class="lead">Overall, the benefits of polyaspartic flooring make it an attractive option for homeowners, business owners, and facility managers looking for a durable, low-maintenance, and cost-effective flooring solution.</p>
 
       </div>
       <div class="col-md-5">
