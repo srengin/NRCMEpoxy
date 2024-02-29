@@ -6,8 +6,8 @@ featurettes.innerHTML =`<!--<hr class="featurette-divider">-->
         <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
       </div>
       <div class="col-md-5">
-        <img src="images/EpoxyGarage.jpeg" width="500" height="500" background="var(--bs-secondary-bg)" color="var(--bs-secondary-color)" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" >
-      </div>
+        <img src="images/beforeAndAfter.jpg" width="500"  background="var(--bs-secondary-bg)" color="var(--bs-secondary-color)" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" >
+        </div>
     </div>
 
     <hr class="featurette-divider">
@@ -18,7 +18,7 @@ featurettes.innerHTML =`<!--<hr class="featurette-divider">-->
         <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
       </div>
       <div class="col-md-5 order-md-1">
-        <img src="images/EpoxyGarage.jpeg" width="500" height="500" background="var(--bs-secondary-bg)" color="var(--bs-secondary-color)" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" >
+        <img src="images/image15.jpeg" width="500" height="500" background="var(--bs-secondary-bg)" color="var(--bs-secondary-color)" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" >
       </div>
     </div>
 
@@ -31,7 +31,7 @@ featurettes.innerHTML =`<!--<hr class="featurette-divider">-->
         <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
       </div>
       <div class="col-md-5">
-        <img src="images/EpoxyGarage.jpeg" width="500" height="500" background="var(--bs-secondary-bg)" color="var(--bs-secondary-color)" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" >
+        <img src="images/image12.jpeg" width="500" height="500" background="var(--bs-secondary-bg)" color="var(--bs-secondary-color)" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" >
       </div>
     </div>
 
