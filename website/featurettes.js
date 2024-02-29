@@ -23,10 +23,11 @@ featurettes.innerHTML =`<!--<hr class="featurette-divider">-->
 
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading fw-normal lh-1">It's all about the Surface Prep! <span class="text-body-secondary">Acid etching vs. Grinding with Diamond Segments:</span></h2>
+        <h2 class="featurette-heading fw-normal lh-1">It's all about the Surface Prep! <span class="text-body-secondary"></span></h2>
+        <p class="lead">Epoxy flooring is more than just a surface; it's a statement of quality and durability. At NRCM Epoxy, we understand the importance of this investment in your space. Our team of skilled professionals employs the latest techniques and highest quality materials to deliver seamless, stunning floors and driveways that not only look fantastic but last a lifetime.</p>
         <p class="lead">Don't get lured in with cheap installation cost, chances are they are doing what is called acid etching. Acid etching is a shortcut but you will get what you pay for.
-          Typically epoxy flooring that has been prepared with acid etching needs to be redone after 1-5 years compared to proper preparation with concrete grinding that can last more than 20 years. </p>
-          <p class="lead">So in the long run you are saving much more time and money by getting it done right the first time.</p>
+          Typically epoxy flooring that has been prepared with acid etching needs to be redone after 1-5 years compared to proper preparation with concrete grinding that can last more than 20 years. Save yourself
+          time and money and get it done right the first time.</p>
       </div>
       <div class="col-md-5 order-md-1">
         <img src="images/image15.jpeg" width="500" height="500" background="var(--bs-secondary-bg)" color="var(--bs-secondary-color)" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" >
@@ -38,8 +39,8 @@ featurettes.innerHTML =`<!--<hr class="featurette-divider">-->
 
     <div class="row featurette" style=" padding-bottom:10%">
       <div class="col-md-7">
-        <h2 class="featurette-heading fw-normal lh-1">And lastly, this one. <span class="text-body-secondary">Checkmate.</span></h2>
-        <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
+        <h2 class="featurette-heading fw-normal lh-1">Ready to Transform Your Space?<span class="text-body-secondary"></span></h2>
+        <p class="lead">Discover the impact of exceptional epoxy flooring with NRCM Epoxy. Contact us today to schedule your consultation and take the first step towards a space that’s as functional as it is beautiful. Welcome to the future of flooring – welcome to NRCM Epoxy.</p>
       </div>
       <div class="col-md-5">
         <img src="images/image12.jpeg" width="500" height="500" background="var(--bs-secondary-bg)" color="var(--bs-secondary-color)" class="bd-placeholder-img-lg featurette-image img-fluid mx-auto" >

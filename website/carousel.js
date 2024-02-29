@@ -12,8 +12,9 @@ carousel.innerHTML = `<div id="myCarousel" class="carousel slide" data-bs-ride="
     <div class="container">
       <div class="carousel-caption text-start">
         <h1>NRCM Epoxy: Making Concrete Extraordinary. </h1>
-        <p>It's just what we do.</p>
-        <p><a class="btn btn-lg btn-primary" href="mailto:nrcmepoxy@gmail.com" >Free Consultation</a></p>
+            <p>We work closely with you from the initial consultation to the final installation, ensuring every detail reflects your vision and needs. Our commitment to excellence, coupled with our warranty on services, guarantees peace of mind and a finished product that exceeds expectations.</p>
+            <p>It's just what we do.</p>
+            <p><a class="btn btn-lg btn-primary" href="mailto:nrcmepoxy@gmail.com" >Free Consultation</a></p>
       </div>
     </div>
   </div>
