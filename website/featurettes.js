@@ -1,6 +1,6 @@
 let featurettes = document.getElementById("featurettes");
-featurettes.innerHTML =`<hr class="featurette-divider">
-    <div class="row featurette">
+featurettes.innerHTML =`<!--<hr class="featurette-divider">-->
+    <div class="row featurette" >
       <div class="col-md-7">
         <h2 class="featurette-heading fw-normal lh-1">First featurette heading. <span class="text-body-secondary">It’ll blow your mind.</span></h2>
         <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
@@ -25,7 +25,7 @@ featurettes.innerHTML =`<hr class="featurette-divider">
     
     <hr class="featurette-divider">
 
-    <div class="row featurette">
+    <div class="row featurette" style=" padding-bottom:10%">
       <div class="col-md-7">
         <h2 class="featurette-heading fw-normal lh-1">And lastly, this one. <span class="text-body-secondary">Checkmate.</span></h2>
         <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
@@ -35,4 +35,4 @@ featurettes.innerHTML =`<hr class="featurette-divider">
       </div>
     </div>
 
-    <hr class="featurette-divider">`;
+    `;
