@@ -7,7 +7,7 @@ carousel.innerHTML = `<div id="myCarousel" class="carousel slide" data-bs-ride="
 </div>
 <div class="carousel-inner">
   <div class="carousel-item active">
-  <img src="images/EpoxyGarage.jpeg" class="d-block w-100" alt="Epoxy Garage">
+  <img src="images/EpoxyGarage.jpeg" class="d-block w-100 position-absolute bottom-0 start-0 object-position: center" style="object-position: 50% 50%;" alt="Epoxy Garage">
     <!--{{< placeholder width="100%" height="100%" background="#777" color="#777" text="false" title="false" >}}-->
     <div class="container">
       <div class="carousel-caption text-start">
@@ -18,7 +18,7 @@ carousel.innerHTML = `<div id="myCarousel" class="carousel slide" data-bs-ride="
     </div>
   </div>
   <div class="carousel-item">
-  <img src="images/epoxyroll.jpeg" class="d-block w-100" alt="Epoxy Garage">
+  <img src="images/epoxyroll.jpeg" class="d-block w-100 position-absolute bottom-0 start-0"  alt="Epoxy Garage">
     <!--{{< placeholder width="100%" height="100%" background="#777" color="#777" text="false" title="false" >}}-->
     <div class="container">
       <div class="carousel-caption">
@@ -29,7 +29,7 @@ carousel.innerHTML = `<div id="myCarousel" class="carousel slide" data-bs-ride="
     </div>
   </div>
   <div class="carousel-item">
-  <img src="images/garage.jpeg" class="d-block w-100" alt="Epoxy Garage">
+  <img src="images/garage.jpeg" class="d-block w-100 position-absolute bottom-0 start-0" alt="Epoxy Garage">
     <!--{{< placeholder width="100%" height="100%" background="#777" color="#777" text="false" title="false" >}}-->
     <div class="container">
       <div class="carousel-caption text-end">
