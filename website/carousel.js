@@ -13,7 +13,7 @@ carousel.innerHTML = `<div id="myCarousel" class="carousel slide" data-bs-ride="
       <div class="carousel-caption text-start">
         <h1>NRCM Epoxy: Making Concrete Extraordinary. </h1>
         <p>It's just what we do.</p>
-        <p><a class="btn btn-lg btn-primary" href="#">Free Consultation</a></p>
+        <p><a class="btn btn-lg btn-primary" href="#" onclick="openPopup()">Free Consultation</a></p>
       </div>
     </div>
   </div>

@@ -1,7 +1,5 @@
-/*<!-- START THE FEATURETTES -->
-
-    <hr class="featurette-divider">
-
+let featurettes = document.getElementById("featurettes");
+featurettes.innerHTML =`<hr class="featurette-divider">
     <div class="row featurette">
       <div class="col-md-7">
         <h2 class="featurette-heading fw-normal lh-1">First featurette heading. <span class="text-body-secondary">It’ll blow your mind.</span></h2>
@@ -37,4 +35,4 @@
       </div>
     </div>
 
-    <hr class="featurette-divider"> */
+    <hr class="featurette-divider">`;
