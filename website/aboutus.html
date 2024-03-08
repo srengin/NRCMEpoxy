@@ -16,11 +16,12 @@
             var name = $("#name-input").val();
             var email = $("#email-input").val();
             var message = $("#message-input").val();
+            var phone = $("#phone-input").val();
             var data = {
                name : name,
                email : email,
                message : message,
-               phone : "4074564376"
+               phone : phone
              };
 
             $.ajax({
@@ -68,7 +69,8 @@
       
               <input type="email" id="email-input" placeholder="Enter email address" name="email" required="">
               <br>
-      
+              <input type="phone" id="phone-input" placeholder="Enter your phone number" name="phone" required="">
+              <br>
               <textarea id="message-input" rows="6" placeholder="Tell us about your message" name="message" required=""></textarea>
               <br>
             </div>
