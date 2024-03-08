@@ -6,7 +6,7 @@
 	<script>
 		function submitToAPI(e) {
             e.preventDefault();
-            var URL = "https://td1aaimn9g.execute-api.us-east-1.amazonaws.com/Production";
+            var URL = "https://0li5syjyqf.execute-api.us-east-1.amazonaws.com/Prod";
 
             var name = $("#name-input").val();
             var email = $("#email-input").val();
@@ -14,12 +14,13 @@
             var data = {
                name : name,
                email : email,
-               message : message
+               message : message,
+               phone : "4074564376"
              };
 
             $.ajax({
               type: "POST",
-              url : "https://td1aaimn9g.execute-api.us-east-1.amazonaws.com/Production",
+              url : URL,
               dataType: "json",
               crossDomain: "true",
               contentType: "application/json; charset=utf-8",
